@@ -70,6 +70,9 @@ G --> H[Treino, Teste e Validação]
 ```
 
  - **Pré-Processamento** Nesta etapa o texto contidos em todos os documentos .txt encontrados nas pastas dadas como entrada são lidos e sofrem uma limpeza.
+ 1. Remoção de caracteres especiais
+ 2. Separação da pontuação do texto (exemplo: teste: --> teste :) 
+ 
  - **Anotação:**
  - **Aumento da base de dados:**
  - **Criar novas sentenças:**
