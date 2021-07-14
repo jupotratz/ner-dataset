@@ -2,6 +2,7 @@
 
 ## Descrição do Projeto
 Este repositório tem a função de aprensentar uma metodologia e as ferramentas para a criação de um banco de dados para o treinamento de uma rede neural para a tarefa de reconhecimento de entidades nomeadas (NER) utilizando para tal a técnica de **distant siupervision**. Uma visão geral da metodologia para a criação da base de dados pode ser obsvervada na figura abaixo.
+```
 ```mermaid
 graph TD
 A(Pré-Processamento) -->B(Anotação - Distant Supervision)
